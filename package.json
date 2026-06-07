@@ -1,0 +1,28 @@
+{
+  "name": "pokedex_typescript_lite",
+  "version": "1.0.0",
+  "description": "Aplicação back-end em Node.js com TypeScript para consulta de Pokémon na PokeAPI, com catálogo local em memória.",
+  "main": "dist/main.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "tsx src/main.ts",
+    "build": "tsc",
+    "start": "tsx src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gelobs/SCTEC-Pokedex-TypeScript-Lite.git"
+  },
+  "keywords": ["pokemon", "typescript", "nodejs", "pokeapi"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gelobs/SCTEC-Pokedex-TypeScript-Lite/issues"
+  },
+  "homepage": "https://github.com/gelobs/SCTEC-Pokedex-TypeScript-Lite#readme",
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.4.5",
+    "tsx": "^4.7.1"
+  }
+}
