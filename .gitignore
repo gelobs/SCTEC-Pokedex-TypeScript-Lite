@@ -1,0 +1,7 @@
+# Pastas
+node_modules/
+dist/
+build/
+
+# Arquivos
+.env
