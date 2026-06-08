@@ -5,9 +5,9 @@
   "main": "dist/main.js",
   "type": "commonjs",
   "scripts": {
-    "dev": "tsx src/main.ts",
+    "dev": "tsx main.ts",
     "build": "tsc",
-    "start": "tsx src/main.ts"
+    "start": "tsx main.ts"
   },
   "repository": {
     "type": "git",

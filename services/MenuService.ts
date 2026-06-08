@@ -31,14 +31,14 @@ function separador(): void {
 
 function exibirMenu(): void {
   console.log("\n┌──────────────── MENU PRINCIPAL ──────────────────┐");
-  console.log("│                                                    │");
-  console.log("│   1 › Localizar Pokémon  (nome ou ID)              │");
-  console.log("│   2 › Adicionar ao catálogo                        │");
-  console.log("│   3 › Remover do catálogo                          │");
-  console.log("│   4 › Relatório do catálogo                        │");
-  console.log("│   5 › Sair                                         │");
-  console.log("│                                                    │");
-  console.log("└────────────────────────────────────────────────────┘");
+  console.log("│                                                  │");
+  console.log("│   1 › Localizar Pokémon  (nome ou ID)            │");
+  console.log("│   2 › Adicionar ao catálogo                      │");
+  console.log("│   3 › Remover do catálogo                        │");
+  console.log("│   4 › Relatório do catálogo                      │");
+  console.log("│   5 › Sair                                       │");
+  console.log("│                                                  │");
+  console.log("└──────────────────────────────────────────────────┘");
 }
 
 // ─── opção 1: localizar ───────────────────────────────────────────────────────
